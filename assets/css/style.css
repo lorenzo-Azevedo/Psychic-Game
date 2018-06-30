@@ -1,0 +1,21 @@
+h1 {
+    position: relative;
+    margin-top: 0;
+    font-size: 40px;
+    font-family: cursive;
+    padding-left: 40%;
+    background: linear-gradient(#885ead, #2a0d45, #11051b);
+    color: whitesmoke;
+}
+p {
+    position: relative;
+    left: 35%;
+    color: whitesmoke;
+}
+img {
+    position: relative;
+    left: 35%;
+}
+body {
+    background: black;
+}
